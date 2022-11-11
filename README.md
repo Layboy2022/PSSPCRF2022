@@ -12,7 +12,7 @@ Download data and put them in ./data folder.
 
 #3 Our trained weights for CRNN
 
-Please download from this website "https://pan.baidu.com/s/1GvBOqpLvobwo0wmuFEG_9Q?pwd=PSSP".
+Please download from this website "https://pan.baidu.com/s/1MQPl9E91SQJSYsG1a1MwxA?pwd=PSSP".
 The code is "PSSP".
 
 Download our parameters and put them in ./parameter folder.

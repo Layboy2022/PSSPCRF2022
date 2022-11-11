@@ -18,3 +18,8 @@ The code is "PSSP".
 Download our parameters and put them in ./parameter folder.
 
 The results can be obtained by running CRF.py without trainning.
+
+
+#4 The key for the code will be available when this paper is accepted.
+
+The reviewers can send email to 452179111@qq.com for the key.

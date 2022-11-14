@@ -15,7 +15,7 @@ The 72 features are:
 
 [42,63) PSSM
 
-[63.72) labels  'C', 'B', 'E', 'G', 'I', 'H', 'S', 'T','NoSeq'
+[63.72) Secondary structure labels, with the sequence of 'C', 'B', 'E', 'G', 'I', 'H', 'S', 'T','NoSeq'
 
 
 #2 The version of pytorch is 1.1

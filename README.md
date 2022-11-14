@@ -8,9 +8,13 @@ The code is "PSSP".
 Download data and put them in ./data folder.
 
 The 72 features are:
+
 [0,20) HMM
+
 [20,42) one-hot: amino acid residues, with the order of  'A', 'C', 'E', 'D', 'G', 'F', 'I', 'H', 'K', 'M', 'L', 'N', 'Q', 'P', 'S', 'R', 'T', 'W', 'V', 'Y', 'X','NoSeq'
+
 [42,63) PSSM
+
 [63.72) labels  'C', 'B', 'E', 'G', 'I', 'H', 'S', 'T','NoSeq'
 
 

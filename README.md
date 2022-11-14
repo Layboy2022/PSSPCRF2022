@@ -7,7 +7,7 @@ The code is "PSSP".
 
 Download data and put them in ./data folder.
 
-one-hot: 'A', 'C', 'E', 'D', 'G', 'F', 'I', 'H', 'K', 'M', 'L', 'N', 'Q', 'P', 'S', 'R', 'T', 'W', 'V', 'Y', 'X','NoSeq'
+[20,42) one-hot: amino acid residues, with the order of  'A', 'C', 'E', 'D', 'G', 'F', 'I', 'H', 'K', 'M', 'L', 'N', 'Q', 'P', 'S', 'R', 'T', 'W', 'V', 'Y', 'X','NoSeq'
 
 #2 The version of pytorch is 1.1
 
